@@ -1,15 +1,3 @@
-# CPP-Projects
-Repository for C++ projects done during an ECE 150 course
+# Example-of-Github-practices
+This will provide some examples of standard practices when using GitHub to contribute to government projects such as the FGPV and Heathers viewer 
 
-
-
-#include <iostream>
-  
-  
-  int main();
-  
-  int main(){
-  
-  std::cout << "Hello World" << std::endl;
-  
-  }
