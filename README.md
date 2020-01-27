@@ -1,10 +1,8 @@
 Developer : Simon Bell
 
-Company : NRCAN
-
-Position : Student Web Developer
-
-Email : simon.bell@canada.ca 
+Email : s26bell@uwaterloo.ca 
 
 Phone : 613-715-5260 
+
+This repositories contains various different C++ projects which were completed while taking a Fundamentals of Programming (C++) at the University of Waterloo (Coming soon) 
 
